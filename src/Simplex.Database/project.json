@@ -1,0 +1,17 @@
+﻿{
+    "version": "0.0.1-apex",
+    "authors": [ "ggrnd0@gmail.com" ],
+
+    "dependencies": {
+        "Simplex.Entity": "0.0.1-apex",
+		"Simplex.Service": "0.0.1-apex",
+		"Simplex.Transaction": "0.0.1-apex",
+        "Microsoft.Framework.Runtime.Interfaces": "1.0.0-beta5-11482",
+        "System.Runtime": "4.0.20-beta-22806"
+    },
+
+    "frameworks": {
+        "dnx451": { },
+        "dnxcore50": { }
+    }
+}
